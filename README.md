@@ -1,1 +1,0 @@
-# Finetune_FunctionGemma_270M_for_Mobile_Actions_with_Hugging_Face.ipynb
